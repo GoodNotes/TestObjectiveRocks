@@ -1,0 +1,25 @@
+PODS:
+  - lz4 (128)
+  - ObjectiveRocks (0.9.0.1):
+    - ObjectiveRocks/standard (= 0.9.0.1)
+  - ObjectiveRocks/lz4 (0.9.0.1):
+    - lz4
+    - ObjectiveRocks/standard
+  - ObjectiveRocks/standard (0.9.0.1)
+
+DEPENDENCIES:
+  - ObjectiveRocks (= 0.9.0.1)
+  - ObjectiveRocks/lz4
+
+SPEC REPOS:
+  "git@github.com:GoodNotes/Specs.git":
+    - lz4
+    - ObjectiveRocks
+
+SPEC CHECKSUMS:
+  lz4: 5e066195ca751d552becaa026f8fe213ff738adf
+  ObjectiveRocks: 0c385648193cafc349d0ab3d030c1c532aa78b4e
+
+PODFILE CHECKSUM: 9f13f885a95c90af58fdb9d5b5294d7713348dc5
+
+COCOAPODS: 1.6.0.beta.2

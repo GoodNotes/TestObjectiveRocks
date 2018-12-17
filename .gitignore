@@ -1,0 +1,10 @@
+.DS_Store
+Core/Pods
+/.DS_Store
+*.lyx~
+/Core/DefaultEvents/generated/Alpha.bundle
+*/project.xcworkspace/xcuserdata
+*/xcuserdata
+xcdebugger
+/iOS/.idea/
+Pods
